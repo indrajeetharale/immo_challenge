@@ -1,0 +1,6 @@
+{
+"IMMO_DB_HOST": "postgres.cj7lkmdbmbed.us-east-2.rds.amazonaws.com",
+"IMMO_DB_USER": "postgres",
+"IMMO_DB_PASSWORD": "postgres",
+"IMMO_DB": "rds_db"
+}
